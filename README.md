@@ -76,8 +76,7 @@
   - 플레이어의 카드 점수를 계산하여 화면에 출력합니다.
   - 점수를 비교하여 승자를 결정하고 최종 결과를 화면에 출력합니다.<br>
   ![결과(승)](https://github.com/user-attachments/assets/46847a5b-ad4e-4501-9946-bdad892fa2ee)<br>
-  ![결과(무)](https://github.com/user-attachments/assets/a06572d7-c8be-4b5d-bb62-3cea19b67cb8)<br>
-  ![결과(패)](https://github.com/user-attachments/assets/339aefa3-22ed-4e36-a1c1-ac96b3b087b4)
+
   
 
 <br/>
