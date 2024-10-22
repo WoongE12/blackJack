@@ -9,11 +9,11 @@
 <br/>
 
 # 목차 📚
-- <a href="ㅇㅇ">프로젝트 소개</a>
-- <a href="ㅇㅇ">담당 역할
-- <a href="ㅇㅇ">기술 스택
-- <a href="ㅇㅇ">주요 기능
-- <a href="ㅇㅇ">후기</a>
+- <a>프로젝트 소개</a>
+- <a>담당 역할
+- <a>기술 스택
+- <a>주요 기능
+- <a>후기</a>
 
 <br/>
 <br/>
@@ -71,10 +71,15 @@
 - **게임 룰**
   - 실행 시 카드 덱을 초기화하고 셔플 하여 게임을 시작합니다.
   - 플레이어와 딜러에게 처음 2장의 카드를 나누어 주며, 카드가 화면에 출력됩니다.
+  ![시작](https://github.com/user-attachments/assets/66b98ab7-4097-401f-91cc-fdcc6b77a0e4)<br>
   - 플레이어에게 추가 카드를 받을 수 있는 선택지를 보여줍니다.
   - 플레이어의 카드 점수를 계산하여 화면에 출력합니다.
   - 점수를 비교하여 승자를 결정하고 최종 결과를 화면에 출력합니다.
-    
+  ![결과(승)](https://github.com/user-attachments/assets/46847a5b-ad4e-4501-9946-bdad892fa2ee)
+  ![결과(무)](https://github.com/user-attachments/assets/a06572d7-c8be-4b5d-bb62-3cea19b67cb8)
+  ![결과(패)](https://github.com/user-attachments/assets/339aefa3-22ed-4e36-a1c1-ac96b3b087b4)
+  
+
 <br/>
 <br/>
 
