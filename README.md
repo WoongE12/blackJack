@@ -1,10 +1,9 @@
 # BlackJack
 
-<h3 align="center"><strong>ㅇㅇ</strong></h3>
+<h3 align="center"><strong>Java로 만든 블랙잭 게임</strong></h3>
 
 
-- **프로젝트명** : Java로 만든 블랙잭 게임
-- **프로젝트기간** : 24.05.10 ~ 24.05.17
+- **기간** : 24.05.10 ~ 24.05.17
 
 <br/>
 
