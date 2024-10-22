@@ -36,7 +36,7 @@
 
 <br/>
 
-## Tools, Cooperation
+## Tools
 
 
 <br/>
@@ -44,8 +44,6 @@
 
 
 <br/><br/>
-
-# ERD 📝
 
 
 
