@@ -29,9 +29,6 @@
 
 # 기술 스택 ⚙
 
-## Frotend
-
-
 <br/>
 
 ## Backend
@@ -44,15 +41,6 @@
 
 <br/>
 
-## Server
-
-
-<br/>
-
-## DB
-
-
-<br/>
 
 
 <br/><br/>
